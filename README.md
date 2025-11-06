@@ -18,4 +18,8 @@
 
 |  Цифровое производство🐈‍⬛ |
 | ---------- |
-| https://drive.google.com/drive/folders/1-6MA7gnAa2hOVXflZvv5vNTh7k4akZXx?usp=drive_link |
+| https://drive.google.com/drive/folders/1-6MA7gnAa2hOVXflZvv5vNTh7k4akZXx?usp=drive_link - папка |
+
+|  Лия Николаевна🐈‍⬛ |
+| ---------- |
+| https://drive.google.com/drive/folders/1Zia_JUMTSAJFqICzDYZpWq5cmbBFVoT6?usp=drive_link - папка |
