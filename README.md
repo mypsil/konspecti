@@ -1,6 +1,7 @@
-| План 🐈‍⬛ |
+| План на 5,6 семестр 🐈‍⬛ |
 | ---------- |
-| https://docs.google.com/document/d/1GieLN4nfNvBAJlrpm90mHZLesmp-zk-B8S2DH-HjjvU/edit?tab=t.0 |
+| https://docs.google.com/document/d/1GieLN4nfNvBAJlrpm90mHZLesmp-zk-B8S2DH-HjjvU/edit?tab=t.0 - 5|
+|https://docs.google.com/document/d/1E2nRZJzrhh2UIooGsZkbNUVPvEnQH5xHz_sO1HjDwkk/edit?usp=drive_link - 6|
 
 | Системное программирование  🐈‍⬛ |
 | ---------- |
