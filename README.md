@@ -2,6 +2,7 @@
 | ---------- |
 | https://docs.google.com/document/d/1GieLN4nfNvBAJlrpm90mHZLesmp-zk-B8S2DH-HjjvU/edit?tab=t.0 - 5|
 |https://docs.google.com/document/d/1E2nRZJzrhh2UIooGsZkbNUVPvEnQH5xHz_sO1HjDwkk/edit?usp=drive_link - 6|
+| https://drive.google.com/drive/u/3/folders/1QQd6V6J1K5HStDzItaOo4_UGum7lGOpA - планы 6 семестр папка (все задания) |
 
 | Системное программирование  🐈‍⬛ |
 | ---------- |
